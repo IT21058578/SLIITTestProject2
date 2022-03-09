@@ -1,0 +1,3 @@
+Common points of error.
+1. Make sure sql statement is correct.
+2. Make sure the details of login into the database are correct (username, password).
